@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1631776664 source:c:\users\priya\desktop\testcodes\testcode\activity1.c
+	<avr/io.h>
+	"activity1.h"
+
+1631773373 c:\users\priya\desktop\testcodes\testcode\activity1.h
+
+1631807911 source:c:\users\priya\desktop\testcodes\testcode\activity2.c
+	<avr/io.h>
+	"activity2.h"
+	"activity1.h"
+
+1631808013 c:\users\priya\desktop\testcodes\testcode\activity2.h
+	"activity2.h"
+	<util/delay.h>
+	<avr/io.h>
+
+1631767389 source:c:\users\priya\desktop\testcodes\testcode\fuse.c
+	<avr/io.h>
+
