@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1631810431 source:c:\users\priya\desktop\embededcproject0708\activity1.c
+	<avr/io.h>
+	"activity1.h"
+
+1631810431 c:\users\priya\desktop\embededcproject0708\activity1.h
+
+1631811346 source:c:\users\priya\desktop\embededcproject0708\activity2.c
+	<avr/io.h>
+	"activity2.h"
+	"activity1.h"
+
+1631811603 c:\users\priya\desktop\embededcproject0708\activity2.h
+	<avr/io.h>
+	<util/delay.h>
+
+1631809714 source:c:\users\priya\desktop\embededcproject0708\fuse.c
+	<avr/io.h>
+
+1631811004 source:c:\users\priya\desktop\embededcproject0708\activity4.c
+	<avr/io.h>
+	<util/delay.h>
+	"activity4.h"
+
+1631812179 c:\users\priya\desktop\embededcproject0708\activity4.h
+	<util/delay.h>
+	<avr/io.h>
+
+1631812550 source:c:\users\sai satish\desktop\priya\activity1.c
+	<avr/io.h>
+	"activity1.h"
+
+1631812550 c:\users\sai satish\desktop\priya\activity1.h
+
+1631813266 source:c:\users\sai satish\desktop\priya\activity2.c
+	<avr/io.h>
+	"activity2.h"
+	"activity1.h"
+
+1631812550 c:\users\sai satish\desktop\priya\activity2.h
+	<avr/io.h>
+	<util/delay.h>
+
+1631812552 source:c:\users\sai satish\desktop\priya\activity4.c
+	<avr/io.h>
+	<util/delay.h>
+	"activity4.h"
+
+1631812552 c:\users\sai satish\desktop\priya\activity4.h
+	<util/delay.h>
+	<avr/io.h>
+
+1631812552 source:c:\users\sai satish\desktop\priya\fuse.c
+	<avr/io.h>
+
+1631812991 source:c:\users\sai satish\desktop\priya\main.c
+	<avr/io.h>
+	<util/delay.h>
+	"activity1.h"
+	"activity2.h"
+	"activity3.h"
+	"activity4.h"
+
+1631812991 c:\users\sai satish\desktop\priya\activity3.h
+
+1631813214 source:c:\users\sai satish\desktop\priya\activity3.c
+	<avr/io.h>
+	<util/delay.h>
+	"activity3.h"
+	"activity2.h"
+
